@@ -37,10 +37,14 @@ npm i
 ## languages
 
 ```${blackBlink.name}
-JAvaScript,ES6,node.js
+JAvaScript,ES6,node.js,mvc,sequlize
 ```
 
 
 ## Screenshot
 
-![Screenshot](assets/imges/Team-1.png)
+![Screenshot](assets/imges/1.png)
+![Screenshot](assets/imges/2.png)
+![Screenshot](assets/imges/3.png)
+![Screenshot](assets/imges/4.png)
+![Screenshot](assets/imges/5.png)
