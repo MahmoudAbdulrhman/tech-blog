@@ -1,5 +1,11 @@
 # tech-blog
 
+## Description
+
+Create new blog entries in this simple blog tech journal. Share new tech, discuss improvements to old ones, meet people with the same interest and create your community in this new blog spot.
+
+
+
 ## Usage
 
 Website Link
